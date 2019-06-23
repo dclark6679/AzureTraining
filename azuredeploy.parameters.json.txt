@@ -6,7 +6,7 @@
       "value": "GEN-USER"
     },
     "adminPassword": {
-      "value": "Nate5779"
+      "value": "Nate5779#"
     },
     "dnsLabelPrefix": {
       "value": "GEN-UNIQUE"
